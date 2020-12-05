@@ -1,3 +1,3 @@
 # README
 ## Datareader documentation
-Thid file contains documentation for future project of
+This file contains documentation for future project of
